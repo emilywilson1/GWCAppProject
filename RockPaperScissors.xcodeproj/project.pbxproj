@@ -15,6 +15,9 @@
 		304087992047356D00EEA688 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 304087972047356D00EEA688 /* Main.storyboard */; };
 		3040879B2047356D00EEA688 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3040879A2047356D00EEA688 /* Assets.xcassets */; };
 		3040879E2047356D00EEA688 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3040879C2047356D00EEA688 /* LaunchScreen.storyboard */; };
+		304087A820479DA200EEA688 /* rock.png in Resources */ = {isa = PBXBuildFile; fileRef = 304087A520479DA200EEA688 /* rock.png */; };
+		304087A920479DA200EEA688 /* scissors.png in Resources */ = {isa = PBXBuildFile; fileRef = 304087A620479DA200EEA688 /* scissors.png */; };
+		304087AA20479DA200EEA688 /* paper.png in Resources */ = {isa = PBXBuildFile; fileRef = 304087A720479DA200EEA688 /* paper.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +31,9 @@
 		3040879A2047356D00EEA688 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3040879D2047356D00EEA688 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3040879F2047356D00EEA688 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		304087A520479DA200EEA688 /* rock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = rock.png; path = Assets.xcassets/rock.png; sourceTree = "<group>"; };
+		304087A620479DA200EEA688 /* scissors.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = scissors.png; path = Assets.xcassets/scissors.png; sourceTree = "<group>"; };
+		304087A720479DA200EEA688 /* paper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = paper.png; path = Assets.xcassets/paper.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +73,9 @@
 				304087952047356D00EEA688 /* GameViewController.swift */,
 				304087972047356D00EEA688 /* Main.storyboard */,
 				3040879A2047356D00EEA688 /* Assets.xcassets */,
+				304087A720479DA200EEA688 /* paper.png */,
+				304087A520479DA200EEA688 /* rock.png */,
+				304087A620479DA200EEA688 /* scissors.png */,
 				3040879C2047356D00EEA688 /* LaunchScreen.storyboard */,
 				3040879F2047356D00EEA688 /* Info.plist */,
 			);
@@ -134,6 +143,9 @@
 			files = (
 				304087992047356D00EEA688 /* Main.storyboard in Resources */,
 				304087902047356D00EEA688 /* GameScene.sks in Resources */,
+				304087A820479DA200EEA688 /* rock.png in Resources */,
+				304087A920479DA200EEA688 /* scissors.png in Resources */,
+				304087AA20479DA200EEA688 /* paper.png in Resources */,
 				3040879B2047356D00EEA688 /* Assets.xcassets in Resources */,
 				3040879E2047356D00EEA688 /* LaunchScreen.storyboard in Resources */,
 				304087922047356D00EEA688 /* Actions.sks in Resources */,
